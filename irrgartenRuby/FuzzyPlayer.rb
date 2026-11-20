@@ -1,5 +1,5 @@
-require_relative 'player'
-require_relative 'dice'
+require_relative 'Player'
+require_relative 'Dice'
 
 module Irrgarten
   class FuzzyPlayer < Player

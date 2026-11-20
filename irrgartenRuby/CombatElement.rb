@@ -1,4 +1,4 @@
-require_relative 'dice'
+require_relative 'Dice'
 
 module Irrgarten
   class CombatElement
