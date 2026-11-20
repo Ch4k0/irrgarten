@@ -17,5 +17,11 @@ Players navigate a 2D grid labyrinth containing obstacles, immobile monsters, an
 ### Java (GUI / Console)
 ```bash
 cd java/src
-javac irrgarten/*.java irrgarten/UI/*.java irrgarten/controller/*.java
-java irrgarten.Main
+javac irrgarten/*.java irrgarten/controller/*.java irrgarten/UI/*.java irrgarten/Main/*.java
+java irrgarten.Main.Main
+```
+
+### Ruby (Console)
+```bash
+cd ruby
+ruby Main/test_p1.rb
