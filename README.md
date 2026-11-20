@@ -14,7 +14,7 @@ Players navigate a 2D grid labyrinth containing obstacles, immobile monsters, an
 
 ## How to Run
 
-### Java (GUI / Console)
+### Java (Console)
 ```bash
 cd java/src
 javac irrgarten/*.java irrgarten/controller/*.java irrgarten/UI/*.java irrgarten/Main/*.java
